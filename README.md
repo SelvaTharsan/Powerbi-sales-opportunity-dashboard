@@ -28,7 +28,9 @@ To leverage Power BI to analyze and visualize sales opportunities and performanc
 
 
 ## Dashboard
-![Adidas](https://github.com/user-attachments/assets/bdcb07ce-cb60-4935-9fa2-01ee96c7cf22)
+![Sales](https://github.com/user-attachments/assets/da0dce4c-f3b8-462d-acec-56c503546f08)
+![Sales_1](https://github.com/user-attachments/assets/158b0dc9-ee8b-4fbf-bbec-a218f7f386fe)
+
 
 ## Project Insight 
 - Identified that most opportunities fall under the Validated stage.
